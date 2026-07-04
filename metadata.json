@@ -1,0 +1,6 @@
+{
+  "name": "Shagun Hospital",
+  "description": "Patient portal, appointment scheduling, and clinic resource management for Shagun Multi-Speciality Hospital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
